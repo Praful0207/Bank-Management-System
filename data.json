@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Praful",
+        "age": 22,
+        "email": "praful@gmail.com",
+        "pin": "1235",
+        "accountNo.": 1234,
+        "balance": 0
+    },
+    {
+        "name": "shivam",
+        "age": 23,
+        "email": "shivam@gmail.com",
+        "pin": 1025,
+        "accountNo.": "CY43*8S",
+        "balance": 10000
+    },
+    {
+        "name": "Yash Shukla",
+        "age": 24,
+        "email": "yash@gmail.com",
+        "pin": 7890,
+        "accountNo.": "9H5E*2u",
+        "balance": 60000
+    }
+]
